@@ -3,7 +3,7 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 
-public class StringUtils {
+public class demo5 {
 
     private static final String[] EMPTY_STRING_ARRAY = new String[0];
 
